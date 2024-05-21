@@ -79,6 +79,8 @@ exclude:
   - "_treks/assets/css/*.scss"
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-spaceship
 strict_front_matter: true
 sass:
   style: compressed # possible values: nested expanded compact compressed
