@@ -1,0 +1,99 @@
+
+mera-peak:
+    name: "Mera Peak Climbing"
+    days: "13"
+    nights: "12"
+    startPoint: 'Besi Sahar'
+    endPoint: 'Pokhara'
+    distance: 'Upto 200KM'
+
+
+    dificulty: "Extreme"
+    altitude: "5416m / 17768.81ft"
+    skill : 'Intermediate+'
+    grade: "Moderate"
+
+    walking: "5-7 hours"
+    accomodation: "Hotel + Lodge"
+    
+    groupSize: "2-15 pax"
+    season: "Sep-Dec | Mar-May"
+    region: "Annapurna"
+    
+    popular: "Y"
+    price: "2000"
+    
+    bookLink: "https://www.instamojo.com/thetrippyfrog/beas-kund-trek-ab0ba/"
+
+    description: "The Annapurna Circuit Mountain Biking Tour is a unique way to experience one of the world's most beautiful regions. It provides an opportunity to test one's endurance, experience the local culture, and immerse oneself in the breathtaking beauty of the Himalayas. Whether you are an experienced mountain biker or a beginner, this tour is a must-do for anyone who loves adventure and natural beauty."
+
+    excerpt: "The Annapurna Circuit Mountain Biking Tour is a unique way to experience one of the world's most beautiful regions. It provides an opportunity to test one's endurance, experience the local culture, and immerse oneself in the breathtaking beauty of the Himalayas. Whether you are an experienced mountain biker or a beginner, this tour is a must-do for anyone who loves adventure and natural beauty."
+
+    video: "<iframe width='100%' height='400' src='https://www.youtube.com/embed/BRV7xvWwUnQ?start=1326' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+    
+
+    download: "//assets/docs/annapurna-circuit-mtb.pdf"
+    
+    image: "<img class='map1'>"
+
+
+    highlights: 
+
+    - content : "Staying in teahouses and guesthouses run by local families"
+    - content : "Expert guides ensuring your safety and comfort throughout the tour"
+    - content : "Ride over prayer flag-lined suspension bridges."
+    - content : "Stand among the world's highest peaks."
+    - content : "Ride through picturesque villages, including Taal, Chame, and Manang."
+    - content : "Cross the challenging and rewarding Thorong La Pass at an elevation of 5,416 meters."
+    - content : "Incredible views of the Annapurna mountain range"
+    - content : "Challenging ride through the Thorong La Pass at 5,416 meters"
+    - content : "Experiencing the local culture and cuisine of Nepal"
+
+    
+    overview:
+
+    - content: "Explore the breathtaking landscapes of Nepal, pedal through charming villages, and experience the rich culture of the local communities.Over the course of 12 days, you'll ride through some of the most scenic and challenging terrain in the world. The tour takes you from the bustling city of Kathmandu to the beautiful city of Pokhara, and through the Annapurna mountain range, offering incredible views of snow-capped peaks and lush valleys."
+    - content: " Our experienced guides are passionate about sharing their knowledge of the region and will ensure your safety and comfort throughout the journey. We provide high-quality bikes and gear, as well as support vehicles to carry your luggage and offer assistance when needed. Whether you're an avid cyclist or a beginner, the Annapurna Circuit Mountain Biking Tour is an adventure of a lifetime that you won't want to miss."
+    - content: "So why wait? Book your spot on this incredible mountain biking tour today and experience the beauty and culture of Nepal from a unique and thrilling perspective. We guarantee you won't regret it"
+
+    itinerary:
+    
+    - title: "DAY 1 - Arrival in Kathmandu, Nepal"
+      content: "Upon arrival at Tribhuvan International Airport in Kathmandu, you will be met by a representative will take you to your hotel in Thamel, the heart of the tourist district of Kathmandu. Depending on your arrival time, you may have the opportunity to explore the streets, sights, and shops of Thamel, or to relax after your journey."
+
+    - title: "Day 2 - Kathmandu Sightseeing and Tour Preparation"
+      content: "Today you can choose to explore the sights of Kathmandu, or prepare for your biking tour. You may want to take a guide for the tour of the city's temples, palaces, and markets, or simply wander through the narrow streets and soak up the vibrant atmosphere of the city."
+
+    - title: "Day 3 - Transfer from Kathmandu to Besi Sahar"
+      content: "After breakfast, you will be picked up from your hotel and driven to Besi Sahar, a small town on the banks of the Marsyangdi River. This is where your biking tour begins, and you'll have the opportunity to meet your guides and other members of your group."
+        
+    - title: "Day 4 - Besi Sahar to Taal Biking: 30km Ride, 1400m Ascent"
+      content: "Today we start the biking tour and ride 30km from Besi Sahar to Taal. We'll ascend 1400m, and the road will be relatively easy. The route passes through small villages and terraced farmland, offering a glimpse into the daily life of the locals."
+  
+    - title: "Day 5 - Taal to Chame Biking: 36km Ride, 1300m Ascent"
+      content: "We'll start biking from Taal and ride 36km, ascending 1300m to reach Chame, the headquarters of the Manang district. The route passes through pine and rhododendron forests and offers stunning views of the Annapurna range."
+   
+    - title: "Day 6 - Chame to Manang Biking: 30km Ride, 1250m Ascent"
+      content: "Today, we'll ride 30km and ascend 1250m to reach Manang. The route passes through the Marsyangdi River and the quaint village of Pisang, which is famous for its apple orchards. Manang is a picturesque town situated in a broad valley and surrounded by towering peaks."
+   
+    - title: "Day 7 - Rest Day in Manang"
+      content: "Today is a rest day in Manang, which allows us to acclimatize to the high altitude. You can explore the town and its monasteries, or take a short hike to the nearby hills to enjoy the stunning views."
+   
+    - title: "Day 8 - Manang to Thorong Phedi Biking: 17km Ride, 1240m Ascent"
+      content: "We'll bike 17km and ascend 1240m to reach Thorong Phedi, the last stop before we cross the Thorong La pass. The route passes through alpine landscapes, and we'll be surrounded by snow-capped peaks throughout the day."
+  
+    - title: "Day 9 - Thorong Phedi to Muktinath Biking via the Thorong La Pass: 14km Ride, 1040m Ascent"
+      content: "Today is the most challenging day of the tour as we cross the Thorong La pass, the highest point of the tour. We'll ride 14km and ascend 1040m to reach Muktinath, a holy site for both Hindus and Buddhists. The pass offers spectacular views of the Annapurna and Dhaulagiri ranges."
+  
+    - title: "Day 10 - Muktinath to Marpha Biking via Lubra Valley: 30km Ride, 960m Ascent"
+      content: "Today, you'll continue your journey towards Marpha, a picturesque village located in the Kali Gandaki Valley. The ride will take you through the Lubra Valley, which is known for its beautiful landscapes and traditional way of life. You'll also get to see the stunning Dhaulagiri and Nilgiri mountain ranges in the distance."
+  
+    - title: "Day 11 - Marpha to Tatopani Biking: 32km Ride, 460m Ascent"
+      content: "From Marpha, you'll head towards Tatopani, which means 'hot water' in Nepali. Along the way, you'll pass through charming villages and lush forests, and have the opportunity to soak in the natural hot springs in Tatopani to rejuvenate your muscles after the previous days' rides."
+  
+    - title: "Day 12 - Tatopani to Pokhara Biking: 28km Ride, 400m Ascent"
+      content: "Today's ride takes you through beautiful landscapes and traditional villages as you make your way towards the city of Pokhara. Pokhara is known for its stunning natural beauty, with views of the Annapurna and Dhaulagiri mountain ranges, as well as its laid-back atmosphere. You'll have the rest of the day to explore the city, relax by the lake or take part in various adventure activities, such as paragliding, zip-lining or boating."
+  
+    - title: "Day 13 - Transfer from Pokhara to Kathmandu."
+      content: "Today marks the end of your Annapurna Circuit Biking Tour. You'll transfer back to Kathmandu by private vehicle, and have the rest of the day to explore the city, do some last-minute shopping or simply relax before your departure."
+
