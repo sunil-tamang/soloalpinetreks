@@ -241,7 +241,7 @@ tags: "Everest Base Camp Trek, Annapurna Circuit Trek, Annapurna Base Camp Trek,
 
 					{% for i in (1..6) %}
 						{% assign subPath = page.title | remove: "Trek" | slugify | append: "/" %}
-						{% assign path = 'assets/css/images/bike-tours/' | append: subPath | relative_url %}
+						{% assign path = 'assets/css/images/peak-climbing/' | append: subPath | relative_url %}
 						<div class="magnific-img">
 							<a class="image-popup-vertical-fit" href="{{ path }}{{i}}.jpg" title="{{ page.title }}">
 								<img src="{{ path }}{{i}}.jpg" alt="{{ page.title }}" />
