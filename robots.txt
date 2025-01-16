@@ -4,6 +4,9 @@
 
 User-agent: *
 Disallow:
+Disallow: /activities/bike-tours/
+Disallow: /activities/rafting/
+
 
 # Sitemap
 # Sitemap: {{ site.url }}/sitemap.xml
